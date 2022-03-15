@@ -22,18 +22,20 @@
     "url": "https://miamiscaffoldrental.com",
     "icon": "https://favicons.githubusercontent.com/miamiscaffoldrental.com",
     "slug": "miasfr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 865,
-    "timeWeek": 583,
-    "timeMonth": 496,
-    "timeYear": 486,
-    "dailyMinutesDown": {}
+    "time": 926,
+    "timeDay": 9681,
+    "timeWeek": 2822,
+    "timeMonth": 1116,
+    "timeYear": 926,
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "Grexi",
