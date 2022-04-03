@@ -22,9 +22,9 @@
     "url": "https://miamiscaffoldrental.com",
     "icon": "https://favicons.githubusercontent.com/miamiscaffoldrental.com",
     "slug": "miasfr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
@@ -34,6 +34,7 @@
     "timeMonth": 888,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2022-04-03": 0,
       "2022-03-16": 16,
       "2022-03-15": 23
     }
@@ -44,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/grexialbornett.com",
     "slug": "grexi",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "72.73%",
     "uptimeMonth": "93.73%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.72%",
     "time": 1393,
     "timeDay": 1448,
     "timeWeek": 2506,
