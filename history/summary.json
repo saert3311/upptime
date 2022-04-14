@@ -4,9 +4,9 @@
     "url": "https://trinum.xyz",
     "icon": "https://favicons.githubusercontent.com/trinum.xyz",
     "slug": "trinum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 69,
     "timeMonth": 147,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "MIASFR",
@@ -44,11 +46,11 @@
     "icon": "https://favicons.githubusercontent.com/grexialbornett.com",
     "slug": "grexi",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.73%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.24%",
     "time": 1341,
     "timeDay": 605,
     "timeWeek": 1049,
