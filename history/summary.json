@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "down",
-    "uptime": "89.67%",
+    "uptime": "89.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "23.19%",
-    "uptimeMonth": "82.32%",
-    "uptimeYear": "86.97%",
+    "uptimeWeek": "8.90%",
+    "uptimeMonth": "79.04%",
+    "uptimeYear": "86.69%",
     "time": 200,
     "timeDay": 0,
-    "timeWeek": 91,
+    "timeWeek": 0,
     "timeMonth": 140,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-10-30": 68,
+      "2023-10-31": 68,
+      "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -82,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 596,
-    "timeDay": 198,
-    "timeWeek": 387,
-    "timeMonth": 364,
-    "timeYear": 636,
+    "timeDay": 579,
+    "timeWeek": 369,
+    "timeMonth": 370,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2023-03-09": 16,
       "2023-02-05": 15
@@ -102,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "95.17%",
-    "time": 908,
-    "timeDay": 194,
-    "timeWeek": 254,
-    "timeMonth": 1116,
-    "timeYear": 894,
+    "time": 922,
+    "timeDay": 9266,
+    "timeWeek": 1527,
+    "timeMonth": 1330,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2023-10-17": 23,
       "2023-07-13": 1356,
@@ -131,8 +132,7 @@
       "2023-03-06": 18,
       "2023-02-04": 19,
       "2023-02-03": 31,
-      "2022-11-09": 253,
-      "2022-10-31": 18
+      "2022-11-09": 253
     }
   }
 ]
