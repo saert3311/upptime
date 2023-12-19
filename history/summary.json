@@ -4,8 +4,8 @@
     "url": "https://trinum.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
-    "status": "up",
-    "uptime": "90.13%",
+    "status": "down",
+    "uptime": "90.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 143,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-11-01": 116,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
