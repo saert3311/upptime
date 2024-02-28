@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "down",
-    "uptime": "81.84%",
+    "uptime": "81.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-02-27": 18,
+      "2024-02-28": 17,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -118,8 +119,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   },
   {
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 536,
-    "timeDay": 371,
-    "timeWeek": 296,
-    "timeMonth": 447,
-    "timeYear": 493,
+    "time": 535,
+    "timeDay": 185,
+    "timeWeek": 263,
+    "timeMonth": 444,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2023-11-16": 16,
       "2023-03-09": 16
@@ -149,15 +149,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grexialbornett.com.ico",
     "slug": "grexi",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.24%",
-    "time": 899,
-    "timeDay": 643,
-    "timeWeek": 3977,
-    "timeMonth": 1271,
+    "time": 898,
+    "timeDay": 149,
+    "timeWeek": 3942,
+    "timeMonth": 1270,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2023-10-17": 23,
