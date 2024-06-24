@@ -9,6 +9,8 @@ sites:
     url: https://miamiscaffoldrental.com
   - name: Grexi
     url: https://grexialbornett.com
+  - name: Conferencia Grexi
+    url: https://conferencia.grexialbornett.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
