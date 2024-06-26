@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "80.62%",
+    "uptime": "80.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.01%",
+    "uptimeYear": "69.29%",
     "time": 162,
-    "timeDay": 158,
-    "timeWeek": 146,
-    "timeMonth": 157,
+    "timeDay": 152,
+    "timeWeek": 148,
+    "timeMonth": 160,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-03-30": 358,
@@ -129,8 +129,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 475,
       "2023-06-29": 237,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -145,10 +144,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 334,
-    "timeWeek": 287,
-    "timeMonth": 295,
-    "timeYear": 392,
+    "timeDay": 388,
+    "timeWeek": 288,
+    "timeMonth": 297,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2024-05-16": 21,
       "2024-03-29": 93,
@@ -166,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2319,
-    "timeDay": 2319,
-    "timeWeek": 2319,
-    "timeMonth": 2319,
-    "timeYear": 2319,
+    "time": 3399,
+    "timeDay": 5559,
+    "timeWeek": 3399,
+    "timeMonth": 3399,
+    "timeYear": 3399,
     "dailyMinutesDown": {}
   },
   {
@@ -184,8 +183,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.32%",
-    "time": 842,
-    "timeDay": 305,
+    "time": 841,
+    "timeDay": 407,
     "timeWeek": 791,
     "timeMonth": 441,
     "timeYear": 801,
@@ -207,8 +206,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1388,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -222,11 +220,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 566,
-    "timeWeek": 566,
-    "timeMonth": 566,
-    "timeYear": 566,
+    "time": 552,
+    "timeDay": 508,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   }
 ]
