@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "83.98%",
+    "uptime": "84.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.64%",
+    "uptimeYear": "73.91%",
     "time": 171,
-    "timeDay": 90,
-    "timeWeek": 180,
-    "timeMonth": 152,
+    "timeDay": 110,
+    "timeWeek": 179,
+    "timeMonth": 147,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-03-30": 358,
@@ -109,8 +109,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -125,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 377,
-    "timeDay": 286,
-    "timeWeek": 309,
-    "timeMonth": 329,
+    "timeDay": 347,
+    "timeWeek": 308,
+    "timeMonth": 332,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -146,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2553,
-    "timeDay": 3788,
-    "timeWeek": 2021,
-    "timeMonth": 1911,
-    "timeYear": 2553,
+    "time": 2559,
+    "timeDay": 3715,
+    "timeWeek": 2491,
+    "timeMonth": 1878,
+    "timeYear": 2559,
     "dailyMinutesDown": {}
   },
   {
@@ -165,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 509,
-    "timeWeek": 381,
-    "timeMonth": 360,
+    "timeDay": 302,
+    "timeWeek": 362,
+    "timeMonth": 361,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-03-08": 17
@@ -184,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 323,
-    "timeDay": 312,
-    "timeWeek": 273,
-    "timeMonth": 280,
-    "timeYear": 323,
+    "time": 322,
+    "timeDay": 126,
+    "timeWeek": 249,
+    "timeMonth": 271,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-07-13": 46,
       "2024-07-12": 533
