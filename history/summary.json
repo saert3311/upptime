@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "84.06%",
+    "uptime": "84.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.01%",
+    "uptimeYear": "75.28%",
     "time": 170,
-    "timeDay": 154,
-    "timeWeek": 129,
-    "timeMonth": 149,
+    "timeDay": 225,
+    "timeWeek": 142,
+    "timeMonth": 152,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2024-03-30": 358,
@@ -104,8 +104,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -119,10 +118,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 376,
-    "timeDay": 368,
-    "timeWeek": 297,
-    "timeMonth": 324,
+    "time": 375,
+    "timeDay": 220,
+    "timeWeek": 284,
+    "timeMonth": 321,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -141,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2538,
-    "timeDay": 4215,
-    "timeWeek": 2575,
-    "timeMonth": 1891,
-    "timeYear": 2538,
+    "time": 2547,
+    "timeDay": 4137,
+    "timeWeek": 2553,
+    "timeMonth": 1962,
+    "timeYear": 2547,
     "dailyMinutesDown": {}
   },
   {
@@ -160,9 +159,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 386,
-    "timeWeek": 345,
-    "timeMonth": 354,
+    "timeDay": 282,
+    "timeWeek": 338,
+    "timeMonth": 351,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-03-08": 17
@@ -180,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 321,
-    "timeDay": 210,
-    "timeWeek": 265,
-    "timeMonth": 274,
+    "timeDay": 334,
+    "timeWeek": 269,
+    "timeMonth": 276,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-07-13": 46,
