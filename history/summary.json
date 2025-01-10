@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "84.21%",
+    "uptime": "84.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.74%",
+    "uptimeYear": "78.02%",
     "time": 169,
-    "timeDay": 121,
-    "timeWeek": 151,
-    "timeMonth": 151,
+    "timeDay": 102,
+    "timeWeek": 148,
+    "timeMonth": 148,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-03-30": 358,
@@ -94,8 +94,7 @@
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
-      "2024-01-12": 1440,
-      "2024-01-11": 1440
+      "2024-01-12": 1440
     }
   },
   {
@@ -110,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 371,
-    "timeDay": 164,
-    "timeWeek": 315,
-    "timeMonth": 306,
+    "timeDay": 170,
+    "timeWeek": 291,
+    "timeMonth": 301,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2577,
-    "timeDay": 4984,
-    "timeWeek": 3075,
-    "timeMonth": 2345,
-    "timeYear": 2577,
+    "time": 2587,
+    "timeDay": 4549,
+    "timeWeek": 3130,
+    "timeMonth": 2478,
+    "timeYear": 2587,
     "dailyMinutesDown": {}
   },
   {
@@ -150,10 +149,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 194,
-    "timeWeek": 344,
-    "timeMonth": 338,
-    "timeYear": 568,
+    "timeDay": 192,
+    "timeWeek": 318,
+    "timeMonth": 334,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2024-03-08": 17
     }
@@ -170,9 +169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 316,
-    "timeDay": 292,
-    "timeWeek": 211,
-    "timeMonth": 255,
+    "timeDay": 256,
+    "timeWeek": 206,
+    "timeMonth": 257,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-07-13": 46,
