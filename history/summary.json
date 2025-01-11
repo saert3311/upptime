@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "84.22%",
+    "uptime": "84.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.02%",
-    "time": 169,
-    "timeDay": 102,
-    "timeWeek": 148,
+    "uptimeYear": "78.29%",
+    "time": 168,
+    "timeDay": 117,
+    "timeWeek": 145,
     "timeMonth": 148,
     "timeYear": 172,
     "dailyMinutesDown": {
@@ -93,8 +93,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   },
   {
@@ -109,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 371,
-    "timeDay": 170,
-    "timeWeek": 291,
-    "timeMonth": 301,
+    "timeDay": 295,
+    "timeWeek": 279,
+    "timeMonth": 300,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -130,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2587,
-    "timeDay": 4549,
-    "timeWeek": 3130,
-    "timeMonth": 2478,
-    "timeYear": 2587,
+    "time": 2593,
+    "timeDay": 3668,
+    "timeWeek": 3129,
+    "timeMonth": 2575,
+    "timeYear": 2593,
     "dailyMinutesDown": {}
   },
   {
@@ -149,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 192,
-    "timeWeek": 318,
-    "timeMonth": 334,
+    "timeDay": 400,
+    "timeWeek": 326,
+    "timeMonth": 337,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-03-08": 17
@@ -168,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 316,
-    "timeDay": 256,
-    "timeWeek": 206,
-    "timeMonth": 257,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 166,
+    "timeWeek": 215,
+    "timeMonth": 253,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2024-07-13": 46,
       "2024-07-12": 533
