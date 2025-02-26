@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "84.87%",
+    "uptime": "84.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.62%",
+    "uptimeYear": "90.90%",
     "time": 169,
-    "timeDay": 115,
-    "timeWeek": 126,
+    "timeDay": 112,
+    "timeWeek": 122,
     "timeMonth": 151,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -47,8 +47,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   },
   {
@@ -62,10 +61,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 362,
-    "timeDay": 204,
-    "timeWeek": 481,
-    "timeMonth": 335,
+    "time": 361,
+    "timeDay": 200,
+    "timeWeek": 439,
+    "timeMonth": 330,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2024-06-26": 36,
@@ -84,11 +83,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2794,
-    "timeDay": 4643,
-    "timeWeek": 4201,
-    "timeMonth": 4076,
-    "timeYear": 2794,
+    "time": 2805,
+    "timeDay": 5480,
+    "timeWeek": 4281,
+    "timeMonth": 4133,
+    "timeYear": 2805,
     "dailyMinutesDown": {}
   },
   {
@@ -103,10 +102,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 650,
-    "timeDay": 265,
-    "timeWeek": 406,
-    "timeMonth": 358,
-    "timeYear": 554,
+    "timeDay": 287,
+    "timeWeek": 384,
+    "timeMonth": 357,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-01-15": 83,
       "2024-03-08": 17
@@ -124,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 304,
-    "timeDay": 175,
+    "timeDay": 312,
     "timeWeek": 261,
-    "timeMonth": 263,
+    "timeMonth": 269,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-07-13": 46,
