@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "85.02%",
+    "uptime": "85.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.91%",
+    "uptimeYear": "94.18%",
     "time": 169,
-    "timeDay": 116,
-    "timeWeek": 147,
-    "timeMonth": 153,
-    "timeYear": 171,
+    "timeDay": 132,
+    "timeWeek": 143,
+    "timeMonth": 152,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2024-03-30": 358,
       "2024-03-29": 1440,
@@ -36,8 +36,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -46,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/miamiscaffoldrental.com.ico",
     "slug": "miasfr",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 358,
-    "timeDay": 467,
-    "timeWeek": 359,
-    "timeMonth": 367,
-    "timeYear": 358,
+    "timeDay": 471,
+    "timeWeek": 387,
+    "timeMonth": 370,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2024-06-26": 36,
       "2024-05-16": 21,
@@ -74,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 619,
-    "timeDay": 431,
-    "timeWeek": 355,
-    "timeMonth": 353,
-    "timeYear": 461,
+    "timeDay": 452,
+    "timeWeek": 378,
+    "timeMonth": 356,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-01-15": 83
     }
@@ -93,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 304,
-    "timeDay": 371,
-    "timeWeek": 307,
-    "timeMonth": 275,
-    "timeYear": 304,
+    "time": 303,
+    "timeDay": 117,
+    "timeWeek": 282,
+    "timeMonth": 267,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2024-07-13": 46,
       "2024-07-12": 533
@@ -114,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 131,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 221,
+    "timeDay": 371,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   }
 ]
