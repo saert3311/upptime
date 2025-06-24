@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 127,
-    "timeWeek": 137,
-    "timeMonth": 233,
+    "timeDay": 155,
+    "timeWeek": 140,
+    "timeMonth": 234,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2025-04-29": 32,
@@ -27,17 +27,16 @@
     "slug": "miasfr",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 4011,
-    "timeWeek": 1614,
-    "timeMonth": 699,
-    "timeYear": 977,
+    "time": 846,
+    "timeDay": 4092,
+    "timeWeek": 1615,
+    "timeMonth": 700,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2025-06-23": 6,
       "2025-04-09": 23,
       "2024-06-26": 36
     }
@@ -54,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 401,
-    "timeDay": 215,
-    "timeWeek": 404,
-    "timeMonth": 535,
-    "timeYear": 415,
+    "timeDay": 419,
+    "timeWeek": 397,
+    "timeMonth": 534,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2025-01-15": 83
     }
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 304,
-    "timeDay": 325,
-    "timeWeek": 277,
-    "timeMonth": 297,
+    "timeDay": 174,
+    "timeWeek": 258,
+    "timeMonth": 293,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-07-13": 46,
@@ -94,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 363,
-    "timeWeek": 205,
-    "timeMonth": 261,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 157,
+    "timeWeek": 213,
+    "timeMonth": 258,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   }
 ]
