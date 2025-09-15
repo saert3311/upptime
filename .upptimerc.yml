@@ -13,6 +13,8 @@ sites:
     url: https://conferencia.grexialbornett.com
   - name: Everglades Services
     url: https://everglades.services
+  - name: n8n Server
+    url: https://n8n.trinum.xyz/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
