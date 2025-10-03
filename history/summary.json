@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "87.35%",
+    "uptime": "87.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 180,
-    "timeDay": 318,
-    "timeWeek": 201,
+    "timeDay": 128,
+    "timeWeek": 199,
     "timeMonth": 170,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 845,
-    "timeDay": 888,
-    "timeWeek": 491,
+    "timeDay": 449,
+    "timeWeek": 451,
     "timeMonth": 405,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 580,
-    "timeDay": 500,
-    "timeWeek": 383,
-    "timeMonth": 1523,
-    "timeYear": 650,
+    "time": 581,
+    "timeDay": 463,
+    "timeWeek": 422,
+    "timeMonth": 1524,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-01-15": 83
     }
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 4446,
-    "timeWeek": 850,
-    "timeMonth": 412,
+    "timeDay": 355,
+    "timeWeek": 878,
+    "timeMonth": 416,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 348,
-    "timeDay": 189,
-    "timeWeek": 229,
-    "timeMonth": 293,
-    "timeYear": 348,
+    "time": 347,
+    "timeDay": 106,
+    "timeWeek": 198,
+    "timeMonth": 291,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2025-08-23": 313
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 66,
-    "timeWeek": 145,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 171,
+    "timeDay": 96,
+    "timeWeek": 121,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   }
 ]
