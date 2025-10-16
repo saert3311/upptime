@@ -4,18 +4,19 @@
     "url": "https://trinum.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
-    "status": "up",
-    "uptime": "87.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.49%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 179,
+    "time": 180,
     "timeDay": 174,
     "timeWeek": 176,
     "timeMonth": 173,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2025-10-16": 0,
       "2025-04-29": 32,
       "2025-04-28": 2
     }
