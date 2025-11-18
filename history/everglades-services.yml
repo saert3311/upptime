@@ -1,7 +1,7 @@
 url: https://everglades.services
-status: down
-code: 500
-responseTime: 204
-lastUpdated: 2025-11-18T11:59:24.882Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2025-11-18T12:14:13.939Z
 startTime: 2025-03-02T12:25:00.025Z
 generator: Upptime <https://github.com/upptime/upptime>
