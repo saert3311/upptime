@@ -6,9 +6,9 @@
     "slug": "trinum",
     "status": "down",
     "uptime": "87.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 181,
     "timeDay": 129,
@@ -16,7 +16,7 @@
     "timeMonth": 184,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 6,
       "2025-04-29": 32,
       "2025-04-28": 2
     }
@@ -28,9 +28,9 @@
     "slug": "miasfr",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 865,
     "timeDay": 378,
@@ -38,7 +38,7 @@
     "timeMonth": 624,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 6,
       "2025-08-25": 26,
       "2025-07-27": 16,
       "2025-07-18": 23,
@@ -51,18 +51,19 @@
     "url": "https://grexialbornett.com",
     "icon": "https://icons.duckduckgo.com/ip3/grexialbornett.com.ico",
     "slug": "grexi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 579,
-    "timeDay": 320,
-    "timeWeek": 386,
-    "timeMonth": 359,
-    "timeYear": 619,
+    "time": 578,
+    "timeDay": 253,
+    "timeWeek": 353,
+    "timeMonth": 350,
+    "timeYear": 617,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-01-15": 83
     }
   },
@@ -73,9 +74,9 @@
     "slug": "conferencia-grexi",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 297,
     "timeDay": 198,
@@ -83,7 +84,7 @@
     "timeMonth": 246,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 6
     }
   },
   {
@@ -112,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trinum.xyz.ico",
     "slug": "n8n-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 196,
     "timeDay": 150,
     "timeWeek": 185,
     "timeMonth": 205,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 6
     }
   }
 ]
