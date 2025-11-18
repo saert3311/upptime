@@ -1,7 +1,7 @@
 url: https://n8n.trinum.xyz/healthz
-status: down
-code: 500
-responseTime: 135
-lastUpdated: 2025-11-18T12:47:23.306Z
+status: up
+code: 200
+responseTime: 252
+lastUpdated: 2025-11-18T14:38:18.481Z
 startTime: 2025-09-15T10:43:38.366Z
 generator: Upptime <https://github.com/upptime/upptime>
