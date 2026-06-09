@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 191,
-    "timeDay": 77,
-    "timeWeek": 106,
-    "timeMonth": 124,
-    "timeYear": 192,
+    "timeDay": 89,
+    "timeWeek": 104,
+    "timeMonth": 125,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2025-11-18": 137
     }
@@ -24,16 +24,16 @@
     "url": "https://miamiscaffoldrental.com",
     "icon": "https://icons.duckduckgo.com/ip3/miamiscaffoldrental.com.ico",
     "slug": "miasfr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "74.84%",
-    "uptimeWeek": "79.73%",
-    "uptimeMonth": "93.48%",
-    "uptimeYear": "99.38%",
-    "time": 1201,
-    "timeDay": 1184,
-    "timeWeek": 1473,
-    "timeMonth": 1481,
+    "uptimeDay": "66.80%",
+    "uptimeWeek": "79.28%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "99.36%",
+    "time": 1202,
+    "timeDay": 1021,
+    "timeWeek": 1465,
+    "timeMonth": 1452,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-07-04": 44,
@@ -59,7 +59,7 @@
       "2026-06-06": 8,
       "2026-06-07": 441,
       "2026-06-08": 144,
-      "2026-06-09": 316
+      "2026-06-09": 455
     }
   },
   {
@@ -74,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 711,
-    "timeDay": 305,
-    "timeWeek": 318,
+    "timeDay": 394,
+    "timeWeek": 328,
     "timeMonth": 406,
     "timeYear": 792,
     "dailyMinutesDown": {
@@ -98,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 289,
-    "timeDay": 228,
-    "timeWeek": 209,
-    "timeMonth": 237,
-    "timeYear": 286,
+    "timeDay": 259,
+    "timeWeek": 216,
+    "timeMonth": 239,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2025-11-18": 156
     }
@@ -117,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 365,
-    "timeDay": 405,
-    "timeWeek": 200,
-    "timeMonth": 187,
+    "time": 364,
+    "timeDay": 154,
+    "timeWeek": 194,
+    "timeMonth": 190,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-08-23": 313,
@@ -140,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 260,
-    "timeDay": 313,
-    "timeWeek": 187,
-    "timeMonth": 156,
+    "timeDay": 141,
+    "timeWeek": 182,
+    "timeMonth": 159,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-11-18": 137,
