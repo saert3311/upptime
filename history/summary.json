@@ -26,10 +26,10 @@
     "slug": "miasfr",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "71.65%",
-    "uptimeWeek": "83.11%",
-    "uptimeMonth": "81.38%",
-    "uptimeYear": "98.45%",
+    "uptimeDay": "63.81%",
+    "uptimeWeek": "81.99%",
+    "uptimeMonth": "81.13%",
+    "uptimeYear": "98.43%",
     "time": 1057,
     "timeDay": 1618,
     "timeWeek": 1096,
@@ -63,7 +63,7 @@
       "2026-07-18": 287,
       "2026-07-19": 334,
       "2026-07-21": 408,
-      "2026-07-22": 0
+      "2026-07-22": 113
     }
   },
   {
