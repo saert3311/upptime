@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "89.64%",
+    "uptime": "89.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -24,16 +24,16 @@
     "url": "https://miamiscaffoldrental.com",
     "icon": "https://icons.duckduckgo.com/ip3/miamiscaffoldrental.com.ico",
     "slug": "miasfr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "87.33%",
-    "uptimeWeek": "85.44%",
-    "uptimeMonth": "81.92%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "83.51%",
+    "uptimeWeek": "85.31%",
+    "uptimeMonth": "81.87%",
+    "uptimeYear": "98.40%",
     "time": 1233,
-    "timeDay": 950,
-    "timeWeek": 1148,
-    "timeMonth": 1189,
+    "timeDay": 934,
+    "timeWeek": 1147,
+    "timeMonth": 1190,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2026-06-24": 266,
@@ -65,7 +65,7 @@
       "2026-07-22": 257,
       "2026-07-23": 180,
       "2026-07-24": 123,
-      "2026-07-25": 59
+      "2026-07-25": 114
     }
   },
   {
