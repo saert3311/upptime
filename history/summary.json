@@ -24,16 +24,16 @@
     "url": "https://miamiscaffoldrental.com",
     "icon": "https://icons.duckduckgo.com/ip3/miamiscaffoldrental.com.ico",
     "slug": "miasfr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "84.73%",
-    "uptimeMonth": "82.05%",
-    "uptimeYear": "98.41%",
-    "time": 1232,
-    "timeDay": 1091,
-    "timeWeek": 1146,
-    "timeMonth": 1195,
+    "uptimeDay": "87.34%",
+    "uptimeWeek": "84.34%",
+    "uptimeMonth": "81.92%",
+    "uptimeYear": "98.40%",
+    "time": 1233,
+    "timeDay": 1081,
+    "timeWeek": 1153,
+    "timeMonth": 1194,
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-06-24": 328,
@@ -65,7 +65,7 @@
       "2026-07-22": 257,
       "2026-07-23": 180,
       "2026-07-24": 123,
-      "2026-07-25": 0
+      "2026-07-25": 59
     }
   },
   {
