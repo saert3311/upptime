@@ -120,21 +120,21 @@
     "url": "https://everglades.services",
     "icon": "https://icons.duckduckgo.com/ip3/everglades.services.ico",
     "slug": "everglades-services",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "82.15%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.92%",
     "time": 366,
-    "timeDay": 225,
-    "timeWeek": 251,
-    "timeMonth": 320,
+    "timeDay": 244,
+    "timeWeek": 255,
+    "timeMonth": 319,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2026-05-04": 58,
-      "2026-10-11": 0
+      "2026-10-11": 257
     }
   },
   {
