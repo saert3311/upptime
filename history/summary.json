@@ -142,21 +142,22 @@
     "url": "https://n8n.trinum.xyz/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.trinum.xyz.ico",
     "slug": "n8n-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 247,
-    "timeDay": 284,
-    "timeWeek": 149,
-    "timeMonth": 268,
+    "time": 246,
+    "timeDay": 176,
+    "timeWeek": 139,
+    "timeMonth": 262,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2026-04-20": 19,
-      "2026-05-04": 57
+      "2026-05-04": 57,
+      "2026-11-11": 0
     }
   }
 ]
