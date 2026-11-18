@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinum.xyz.ico",
     "slug": "trinum",
     "status": "up",
-    "uptime": "90.32%",
+    "uptime": "90.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 190,
-    "timeDay": 317,
-    "timeWeek": 235,
-    "timeMonth": 246,
+    "time": 189,
+    "timeDay": 177,
+    "timeWeek": 231,
+    "timeMonth": 247,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2025-11-18": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MIASFR",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.38%",
-    "time": 1168,
-    "timeDay": 1555,
-    "timeWeek": 1809,
-    "timeMonth": 1653,
-    "timeYear": 1264,
+    "time": 1169,
+    "timeDay": 1258,
+    "timeWeek": 1577,
+    "timeMonth": 1671,
+    "timeYear": 1265,
     "dailyMinutesDown": {
       "2026-06-25": 301,
       "2026-06-26": 455,
@@ -80,13 +78,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 690,
-    "timeDay": 422,
-    "timeWeek": 382,
-    "timeMonth": 430,
-    "timeYear": 632,
+    "time": 684,
+    "timeDay": 406,
+    "timeWeek": 389,
+    "timeMonth": 437,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-11-18": 165,
       "2026-01-14": 56,
       "2026-01-21": 22,
       "2026-04-23": 58,
@@ -107,13 +104,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 302,
-    "timeDay": 377,
-    "timeWeek": 395,
-    "timeMonth": 375,
+    "timeDay": 418,
+    "timeWeek": 394,
+    "timeMonth": 380,
     "timeYear": 296,
-    "dailyMinutesDown": {
-      "2025-11-18": 156
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Everglades Services",
@@ -127,12 +122,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 375,
-    "timeDay": 243,
-    "timeWeek": 352,
-    "timeMonth": 338,
+    "timeDay": 716,
+    "timeWeek": 411,
+    "timeMonth": 351,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-11-18": 130,
       "2026-05-04": 58,
       "2026-10-11": 257
     }
@@ -149,12 +143,11 @@
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.87%",
     "time": 247,
-    "timeDay": 223,
-    "timeWeek": 251,
-    "timeMonth": 256,
+    "timeDay": 335,
+    "timeWeek": 256,
+    "timeMonth": 258,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-11-18": 137,
       "2026-04-20": 19,
       "2026-05-04": 57,
       "2026-11-11": 470
